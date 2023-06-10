@@ -1,0 +1,36 @@
+*{
+    background-color: rgb(191, 250, 230);
+    margin: auto;
+}
+.group{
+    margin-top: 30px;
+    width: 300px;
+    height: auto;
+    padding: 20px;
+    border-color: rgb(88, 88, 255);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    border-style: solid;
+}
+
+.group, form, h2, label, span em {
+    background-color: rgb(72, 224, 224);
+}
+
+form h2, form label, form input{
+    margin: 0px 10px 10px 10px;
+}
+
+.form-input {
+    background-color: bisque;
+}
+
+.form-btn{
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+}
